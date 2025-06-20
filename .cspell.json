@@ -1,7 +1,8 @@
 {
     "ignorePaths": [
         "/node_modules",
-        ".gitignore"
+        ".gitignore",
+        ".gitattributes"
     ],
     "words": [
     ]
